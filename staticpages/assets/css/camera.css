@@ -28,13 +28,13 @@
 .camera_wrap img {
 	max-width: none!important;
 }
-.camera_fakehover {
+/* .camera_fakehover {
 	height: 100%;
 	min-height: 60px;
 	position: relative;
 	width: 100%;
 	z-index: 1;
-}
+} */
 .camera_wrap {
 	width: 100%;
 }
